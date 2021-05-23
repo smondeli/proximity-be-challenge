@@ -36,7 +36,7 @@ We will be storing the lesson and webinar videos in Object storage. Before uploa
 The metadata lookup will be maintained in a database.
 
 ### Class Diagram
-![Class Diagram](Class Diagram.png)
+![Class Diagram](ClassDiagram.png)
 
 ### Endpoints
 POST v1/course  
